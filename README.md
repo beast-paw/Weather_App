@@ -1,4 +1,4 @@
-# Weather-app
+# Weather-App
 
 ## Table of contents
 
@@ -10,13 +10,12 @@
   - [Installation instructions](#installation-instructions)
 - [Author](#author)
 - [Show your support](#show-your-support)
-- [License](#-license)
 
 ---
 
 ## About
 
-A weather app that gets user location and fetches the current weather from the open weather API. The user can search up from more than 220 cities around the world, user can also choose which unit the temperature will be displayed by pressing the toggle button.
+A weather app that gets user location and fetches the current weather from the open weather API. The user can search up from more than 220 cities around the world.
 
 ![w1](https://user-images.githubusercontent.com/65167376/190875612-996109be-c4fe-4ec0-845c-c6eb23332a94.png)
 
@@ -26,11 +25,11 @@ A weather app that gets user location and fetches the current weather from the o
 The features of this project are, user can:
 
 1. User as sees the information about his current location weather.
-2. User can search for more than 200 cities around the world.
+2. User can search for 200+ cities around the world.
 
 ## Live Demo
 
-This project is hosted on Netlify.
+This project is hosted on Heroku.
 
 [Live demo link](https://peaceful-earth-67058.herokuapp.com/)
 
@@ -70,14 +69,10 @@ Follow along the steps below to get a copy at your local machine.
 - GitHub: [Pawan_Raj](https://github.com/beast-paw)
 - Linkedin: [Pawan_Raj](https://www.linkedin.com/in/pawan-raj-1830001ab/)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
